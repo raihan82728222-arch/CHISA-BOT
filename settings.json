@@ -1,19 +1,19 @@
 {
   "bot": {
     "name": "CHISA",
-    "phoneNumber": "8801806XXXXXX",
+    "phoneNumber": "88016750369063",
     "customPairingCode": "",
-    "thumbnail": "public/thumbnail.jpg",
+    "thumbnail": "publicthumbnaill.jpg",
     "groupJid": "",
     "groupLink": "https://chat.whatsapp.com/FuyoDJWuOvM5g5HuU4SpT1",
     "prefix": ","
   },
   "owner": {
-    "name": "SIFAT",
+    "name": "ISUU",
     "organization": "CHISA",
-    "id": "8801806XXXXXX",
+    "id": "8801750369063",
     "report": true,
-    "co": ["880193XXXXXX"]
+    "co": [SI93XXXXXX"]
   },
   "sticker": {
     "packname": "CHISA",
@@ -35,7 +35,7 @@
     "gamerestrict": "Game commands are currently restricted to group admins and the owner.",
     "restrict": "This command is currently restricted!",
     "unavailableAtNight": "Bot is unavailable from 12 AM to 6 AM. Please try later.",
-    "footer": "CHISA — by SIFAT ♡",
+    "footer": "CHISA — by ISUU♡",
     "wait": "Please wait...",
     "notFound": "Nothing found! Please try again.",
     "urlInvalid": "Invalid URL! Please provide a valid link."
